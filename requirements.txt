@@ -1,0 +1,11 @@
+torch
+transformers
+huggingface-hub
+pydub  # For audio format conversion
+audio_recorder_streamlit
+langchain_groq
+langchain_core
+langchain_community
+langchain
+python-dotenv
+streamlit
